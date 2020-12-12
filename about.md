@@ -4,7 +4,7 @@ title: ML Models
 permalink: /ML_Models/
 ---
 
-Some information about you!
+My Resume
 
 ### More Information
 
