@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: ML Models
+permalink: /ML_Models/
 ---
 
 Some information about you!
