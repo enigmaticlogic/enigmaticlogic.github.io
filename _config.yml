@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: David Storey
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Associate Software Developer at Auto-Owners insurance. Data science and machine learning enthusiast. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars0.githubusercontent.com/u/48035233?s=400&u=bebe1fdb9e92c9851aa31d488b1a2d7833153314&v=4
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: David.Patrick.Storey@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: enigmaticlogic/Projects
   instagram:
-  linkedin:
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
