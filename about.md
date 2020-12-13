@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Resume
-permalink: /Resume/
+title: Projects
+permalink: /Projects/
 ---
 
-My Resume
+My projects
 
 ### More Information
 
