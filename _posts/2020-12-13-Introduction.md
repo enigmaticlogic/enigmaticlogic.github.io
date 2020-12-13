@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: Projects
+categories: Personal
 title: Introduction
 ---
 
