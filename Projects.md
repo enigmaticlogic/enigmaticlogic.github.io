@@ -6,11 +6,19 @@ permalink: /Projects/
 
 My projects
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/enigmaticlogic/enigmaticlogic.github.io/raw/master/images/resume.pdf&embedded=true" style="width:800px; height:650px;" frameborder="0"></iframe>
+### Project Info
 
-### More Information
+{% for post in site.categories[Projects] %}
+    <article class="post">
 
-A place to include any other types of information that you'd like to include about yourself.
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+    </article>
+{% endfor %}
 
 ### Contact me
 
