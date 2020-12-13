@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ML Models
-permalink: /ML_Models/
+title: Resume
+permalink: /Resume/
 ---
 
 My Resume
