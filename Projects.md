@@ -8,7 +8,8 @@ My projects
 
 ### Project Info
 
-{% for post in site.categories.Projects %}
+<div class="posts">
+  {% for post in site.categories.Personal %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -18,7 +19,8 @@ My projects
       </div>
 
     </article>
-{% endfor %}
+  {% endfor %}
+</div>
 
 ### Contact me
 
