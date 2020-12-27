@@ -5,7 +5,7 @@ permalink: /Projects/
 ---
 
 ### My projects
-Below is a a very brief overview of some projects I have worked on. The ML models and MWCG project include detailed documentation. The flavor of the other projects is similar to that of the MWCG project.
+Below is a a very brief overview of some projects I have worked on. The machine learning models and multi weighted colored graph (MWCG) project include detailed documentation. The flavor of the other projects is similar to that of the MWCG project.
 
 <a href="https://github.com/enigmaticlogic/Projects/tree/master/ML_models">Machine Learning Models from Scratch:</a> Various ML algorithms coded from scratch in Python, including an artificial neural network which uses Pytorch for GPU acceleration. These scripts are runnable as is, and the relevant data set CSV's are included.
 
